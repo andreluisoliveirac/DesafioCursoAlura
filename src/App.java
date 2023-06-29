@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
-        String nome = "CJoão Pedro";
+        String nome = "João Pedro";
         String tipoConta = "Corrente";
         double saldo = 1600.00;
         int opcao = 0;
